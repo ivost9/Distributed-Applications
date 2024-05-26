@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio projects\\App2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|d:\\visual studio projects\\app2\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|d:\\visual studio projects\\app2\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|d:\\visual studio projects\\app2\\mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|solutionrelative:mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|d:\\visual studio projects\\app2\\mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|d:\\visual studio projects\\app2\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1BD68A-EDC4-4A25-92AA-D3B89F6C3F8C}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio projects\\App2\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "D:\\Visual Studio projects\\App2\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T17:48:09.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio projects\\App2\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Visual Studio projects\\App2\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T17:42:40.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Visual Studio projects\\App2\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Visual Studio projects\\App2\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:35:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Visual Studio projects\\App2\\MVC\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MVC\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Visual Studio projects\\App2\\MVC\\Services\\ProductService.cs",
+              "RelativeToolTip": "MVC\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:29:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio projects\\App2\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\Visual Studio projects\\App2\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:27:47.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
